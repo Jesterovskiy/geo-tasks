@@ -1,1 +1,1 @@
-# geo-tasks
+# GeoTasks
